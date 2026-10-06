@@ -4,8 +4,6 @@ A responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript with win and
 
 ## Preview
 
-## Preview
-
 ![Tic-Tac-Toe Screenshot 1](preview/screenshot1.png)
 
 ![Tic-Tac-Toe Screenshot 2](preview/screenshot2.png)
@@ -48,3 +46,6 @@ A responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript with win and
 ## Purpose
 
 This project was developed to strengthen practical JavaScript skills through game development, including DOM manipulation, event handling, conditional logic and interactive user interfaces.
+
+
+[def]: preview/screenshot4.png
